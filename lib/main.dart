@@ -68,7 +68,7 @@ class _HomePageState extends State<HomePage> {
                                 CircleAvatar(
                                   radius: 30.0,
                                   backgroundImage:
-                                  NetworkImage('assets/images/poro.png'),
+                                  NetworkImage('assets/images/00.png'),
                                 ),
                                 Text(
                                   ' Game thuk bok doy',
