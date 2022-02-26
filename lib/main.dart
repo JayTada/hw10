@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
                                   NetworkImage('assets/images/00.png'),
                                 ),
                                 Text(
-                                  ' Game thuk bok doy',
+                                  ' Game thuk bok doy ',
                                   style: TextStyle(
                                       fontSize: 20.0, color: Colors.black),
                                 ),
