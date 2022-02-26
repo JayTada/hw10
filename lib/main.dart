@@ -123,7 +123,7 @@ class _HomePageState extends State<HomePage> {
                             for (int i = 0; i < _Comments.length; i++)
                               Row(
                                 children: [
-                                  Text('Flutter',
+                                  Text('Jay',
                                       style: TextStyle(
                                         fontSize: 14.0,
                                         color: Colors.pinkAccent,
@@ -207,10 +207,10 @@ class _HomePageState extends State<HomePage> {
                                 CircleAvatar(
                                   radius: 30.0,
                                   backgroundImage:
-                                  NetworkImage('assets/images/prayutt icon.jpg'),
+                                  NetworkImage('assets/images/poro.png'),
                                 ),
                                 Text(
-                                  ' Prayut O Cha',
+                                  ' PORO Shop',
                                   style: TextStyle(
                                       fontSize: 20.0, color: Colors.black),
                                 ),
@@ -232,7 +232,7 @@ class _HomePageState extends State<HomePage> {
                         child: FittedBox(
                           fit: BoxFit.fill,
                           child: Image.asset(
-                            'assets/images/prayuttloveyou01.jpg',
+                            'assets/images/codm.png',
                           ),
                         ),
                       ),
@@ -241,7 +241,7 @@ class _HomePageState extends State<HomePage> {
                         child: Row(
                           children: [
                             Text(
-                                'รักคนไทยทุกคน และ แผ่นดินไทย '),
+                                'สาวก CODM ได้กลับมาเฮกันอีกครั้ง !! หลังจากรอคอยกันมานานแสนนาน ในที่สุดก็กลับมารับเติมอีกครั้ง สำหรับโปรโมชัน Call of Duty Mobile รอบใหม่ ไฉไลกว่าเดิม เติมได้ทั้ง Garena และ Facebook ลูกค้าจะ Login ผ่านอะไร ร้านก็เติมให้ได้จ้า '),
                           ],
                         ),
                       ),
@@ -251,13 +251,13 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             Row(
                               children: [
-                                Text('Siwat  ',
+                                Text('Ahh  ',
                                     style: TextStyle(
                                       fontSize: 14.0,
                                       color: Colors.pinkAccent,
                                       fontWeight: FontWeight.bold,
                                     )),
-                                Text('ออกไปปปปปปปป'),
+                                Text('คุ้มสุด'),
                               ],
                             ),
                           ],
@@ -269,19 +269,19 @@ class _HomePageState extends State<HomePage> {
                           children: [
                             Row(
                               children: [
-                                Text('Prayutt O cha ',
+                                Text('PORO Shop ',
                                     style: TextStyle(
                                       fontSize: 14.0,
                                       color: Colors.pinkAccent,
                                       fontWeight: FontWeight.bold,
                                     )),
-                                Text('ไปปรับทัศนคติหน่อยไหมละ <3'),
+                                Text('ใช่เลยยยย'),
                               ],
                             ),
                             for (int i = 0; i < _Comment2.length; i++)
                               Row(
                                 children: [
-                                  Text('Lotte',
+                                  Text('Jay',
                                       style: TextStyle(
                                         fontSize: 14.0,
                                         color: Colors.pinkAccent,
